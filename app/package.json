@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Internal angular app",
+  "author": "Fawwaz Muhammad",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}

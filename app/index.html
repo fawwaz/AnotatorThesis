@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html ng-app="MyApp">
+<head>
+	<meta charset="UTF-8">
+	<title>Hello World!</title>
+</head>
+<body>
+	<h1>Hello World!</h1>
+	<!-- All of the Node.js APIs are available in this renderer process. -->
+	We are using node <script>document.write(process.versions.node)</script>,
+	Chromium <script>document.write(process.versions.chrome)</script>,
+	and Electron <script>document.write(process.versions.electron)</script>.
+	</body>
+	
+	<div ui-view></div>
+	<script type="text/javascript" src="bower_components/angular/angular.min.js"></script>
+	<script type="text/javascript" src="bower_components/angular-ui-router/release/angular-ui-router.min.js"> </script>
+	<script type="text/javascript" src="js/MyApp.js"></script>
+	
+	// You can also require other files to run in this process
+	require('./renderer.js')
+</html>

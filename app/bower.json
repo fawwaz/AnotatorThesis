@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "homepage": "https://github.com/electron/electron-quick-start",
+  "authors": [
+    "fawwazmuhammad <fawwazmuhammad@gmail.com>"
+  ],
+  "description": "Final project purpose",
+  "main": "",
+  "keywords": [
+    "Angular",
+    "Angular-UI-Router"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.3.0"
+  }
+}
