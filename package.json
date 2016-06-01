@@ -26,6 +26,9 @@
     "asar": "^0.11.0",
     "electron-prebuilt": "^1.2.0",
     "fs-jetpack": "^0.9.1",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.3",
+    "gulp-usemin": "^0.3.23",
     "q": "^1.4.1",
     "rcedit": "^0.5.0"
   }

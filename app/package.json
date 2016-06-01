@@ -5,6 +5,7 @@
   "author": "Fawwaz Muhammad",
   "license": "MIT",
   "dependencies": {
-    "mysql": "^2.10.2"
+    "mysql": "^2.10.2",
+    "nedb": "^1.8.0"
   }
 }
