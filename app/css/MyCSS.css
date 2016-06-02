@@ -1,0 +1,24 @@
+.highlightedText {
+    color: red;
+    font-weight: bold;
+}
+
+.EventNameText{
+	background: red;
+}
+
+.EventContactText{
+	background: green;
+}
+
+.EventLocationText{
+	background: blue;
+}
+
+.EventTimeText{
+	background: yellow;
+}
+
+.EventOtherText{
+	background: gray;
+}
